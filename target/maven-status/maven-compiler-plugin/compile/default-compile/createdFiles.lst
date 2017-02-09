@@ -1,0 +1,9 @@
+br/com/springbatchservice/Application.class
+br/com/springbatchservice/JobCompletionNotificationListener.class
+br/com/springbatchservice/JobCompletionNotificationListener$1.class
+br/com/springbatchservice/BatchConfiguration$1.class
+br/com/springbatchservice/BatchConfiguration$1$1.class
+br/com/springbatchservice/BatchConfiguration$1$2.class
+br/com/springbatchservice/PersonItemProcessor.class
+br/com/springbatchservice/Person.class
+br/com/springbatchservice/BatchConfiguration.class
